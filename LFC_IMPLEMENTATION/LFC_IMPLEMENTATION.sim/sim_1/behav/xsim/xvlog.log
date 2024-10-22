@@ -1,0 +1,25 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/ila_0/sim/ila_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ila_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.srcs/sources_1/new/Design_Source.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_module
+INFO: [VRFC 10-311] analyzing module clock_gen
+INFO: [VRFC 10-311] analyzing module GATE_S
+INFO: [VRFC 10-311] analyzing module GATE_A
+INFO: [VRFC 10-311] analyzing module GATE_A_Stand
+INFO: [VRFC 10-311] analyzing module GATE_A_Test
+INFO: [VRFC 10-311] analyzing module GATE_A_Fall_S
+INFO: [VRFC 10-311] analyzing module GATE_A_Fall_T
+INFO: [VRFC 10-311] analyzing module COUNT_CLK_STD
+INFO: [VRFC 10-311] analyzing module COUNT_CLK_TEST
+INFO: [VRFC 10-311] analyzing module CALC_FLAG
+INFO: [VRFC 10-311] analyzing module CALC_FLAG_REG
+INFO: [VRFC 10-311] analyzing module GET_FREQ
+INFO: [VRFC 10-311] analyzing module PROBE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.srcs/sim_1/new/tb_Design_Source.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

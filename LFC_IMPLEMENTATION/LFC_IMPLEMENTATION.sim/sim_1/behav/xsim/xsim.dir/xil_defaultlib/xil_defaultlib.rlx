@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1729568226,verilog,,C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.srcs/sources_1/new/Design_Source.v,,clk_wiz_0,,,../../../../LFC_IMPLEMENTATION.ip_user_files/ipstatic,,,,,
+C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1729568226,verilog,,C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../LFC_IMPLEMENTATION.ip_user_files/ipstatic,,,,,
+C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/ila_0/sim/ila_0.v,1729568448,verilog,,C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,ila_0,,,../../../../LFC_IMPLEMENTATION.ip_user_files/ipstatic,,,,,
+C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.srcs/sim_1/new/tb_Design_Source.v,1729568137,verilog,,,,tb_top_module,,,../../../../LFC_IMPLEMENTATION.ip_user_files/ipstatic,,,,,
+C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.srcs/sources_1/new/Design_Source.v,1729568284,verilog,,C:/Users/Chris/Desktop/Vivado Projects/LFC_IMPLEMENTATION/LFC_IMPLEMENTATION.srcs/sim_1/new/tb_Design_Source.v,,CALC_FLAG;CALC_FLAG_REG;COUNT_CLK_STD;COUNT_CLK_TEST;GATE_A;GATE_A_Fall_S;GATE_A_Fall_T;GATE_A_Stand;GATE_A_Test;GATE_S;GET_FREQ;PROBE;clock_gen;top_module,,,../../../../LFC_IMPLEMENTATION.ip_user_files/ipstatic,,,,,

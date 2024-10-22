@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../LFC_IMPLEMENTATION.ip_user_files/ipstatic" \
+"../../../../LFC_IMPLEMENTATION.gen/sources_1/ip/ila_0/sim/ila_0.v" \
+"../../../../LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" \
+"../../../../LFC_IMPLEMENTATION.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" \
+"../../../../LFC_IMPLEMENTATION.srcs/sources_1/new/Design_Source.v" \
+"../../../../LFC_IMPLEMENTATION.srcs/sim_1/new/tb_Design_Source.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
